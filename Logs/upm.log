@@ -1,0 +1,52 @@
+[2026-10-30T23:46:13.778Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.9f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 11484 --ipc-path Unity-Upm-11484 -l 2 --log-file 'C:\\Users\\cyber\\Downloads\\3ra\\CazadorDeMonstruosRA 2026-10-29_03-11-38/Logs/upm.log'
+[2026-10-30T23:46:13.833Z][INFO] IPC server started (IPC path=Unity-Upm-11484).
+[2026-10-30T23:46:13.833Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-11484.
+[2026-10-30T23:46:17.937Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:46:18.039Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:46:18.050Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-30T23:46:18.074Z][INFO] config:project:get-registries --> 200 (24 ms)
+[2026-10-30T23:46:18.306Z][INFO] project:list-packages --> 200 (369 ms)
+[2026-10-30T23:46:18.370Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-10-30T23:46:18.469Z][INFO] project:list-packages --> 200 (431 ms)
+[2026-10-30T23:48:11.109Z][WARN] Requested version [1.8.17] for package [com.unity.burst] overridden by minimum version [1.8.30].
+[2026-10-30T23:48:11.117Z][WARN] Requested version [1.3.6] for package [com.unity.dt.app-ui] overridden by minimum version [2.1.7].
+[2026-10-30T23:48:11.117Z][WARN] Requested version [3.2.1] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
+[2026-10-30T23:48:11.117Z][WARN] Requested version [1.11.5] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
+[2026-10-30T23:48:11.117Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-10-30T23:48:11.117Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-10-30T23:48:11.120Z][INFO] project:resolve-packages --> 200 (112750 ms)
+[2026-10-30T23:50:28.979Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:50:29.018Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:50:29.764Z][INFO] project:list-packages --> 200 (746 ms)
+[2026-10-30T23:50:29.768Z][INFO] project:list-packages --> 200 (790 ms)
+[2026-10-30T23:50:38.733Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:50:39.275Z][INFO] project:list-packages --> 200 (542 ms)
+[2026-10-30T23:50:39.960Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-30T23:50:39.973Z][INFO] config:project:get-registries --> 200 (12 ms)
+[2026-10-30T23:56:15.044Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.collab-proxy"
+}
+[2026-10-30T23:56:17.084Z][INFO] packages:get-packageinfo --> 200 (2041 ms)
+[2026-10-30T23:57:13.551Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:57:14.426Z][INFO] project:list-packages --> 200 (875 ms)
+[2026-10-30T23:57:17.101Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:57:17.692Z][INFO] project:list-packages --> 200 (591 ms)
+[2026-10-30T23:57:18.498Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-10-30T23:57:18.896Z][INFO] packages:get-packageinfo --> 200 (398 ms)
+[2026-10-30T23:57:23.245Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-30T23:57:24.514Z][INFO] project:list-packages --> 200 (1270 ms)
